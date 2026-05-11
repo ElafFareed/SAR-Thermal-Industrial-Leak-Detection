@@ -53,6 +53,7 @@ The system combines SAR edge detection with thermal hotspot analysis and validat
 - Conducted validation against historical industrial incidents
 
 ---
+Note: Raw satellite GeoTIFF files are not included due to size. The scripts can be used to export SAR and Landsat images through Google Earth Engine.
 
 ## Academic Context
 Academic group project completed for ARTI404 – Image Processing at Imam Abdulrahman Bin Faisal University.
