@@ -1,0 +1,7 @@
+earthengine-api
+numpy
+rasterio
+opencv-python
+scipy
+matplotlib
+scikit-image
